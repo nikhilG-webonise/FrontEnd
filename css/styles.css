@@ -203,9 +203,7 @@ a:hover {
 }
 
 .footerBorder {
-  border-top: 1px solid #696969;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  border-bottom: 1px solid #696969;
 }
 
 .footerContentText {
@@ -223,7 +221,7 @@ a:hover {
 }
 
 .copyRightSize {
-  padding-top: 5px;
+  padding-top: 10px;
   font-size: 11px;
   color:#696969;
 }
